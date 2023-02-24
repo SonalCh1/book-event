@@ -7,31 +7,31 @@
       "ticketsAvailable": 23
     },
     {
-      "eventId": "2",
+      "id": 2,
       "eventName": "RGD Design Thinkers",
       "eventDate": "",
       "ticketsAvailable": 11
     },
     {
-      "eventId": "3",
+      "id": 3,
       "eventName": "Understanding Color Theory: The Color Wheel And Finding Colors",
       "eventDate": "",
       "ticketsAvailable": 47
     },
     {
-      "eventId": "4",
+      "id": 4,
       "eventName": "Perth UX Camp",
       "eventDate": "",
       "ticketsAvailable": 206
     },
     {
-      "eventId": "5",
+      "id": 5,
       "eventName": "Perth UX Camp",
       "eventDate": "",
       "ticketsAvailable": 66
     },
     {
-      "eventId": "6",
+      "id": 6,
       "eventName": "Design Indaba Conference",
       "eventDate": "",
       "ticketsAvailable": 84
