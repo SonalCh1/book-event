@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "eventId": "1",
+      "id": 1,
       "eventName": "Australian Accessibility Conference",
       "eventDate": "",
       "ticketsAvailable": 23
